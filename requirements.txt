@@ -1,0 +1,2 @@
+customtkinter==4.6.3
+pytube==12.1.2
